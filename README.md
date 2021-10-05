@@ -1,2 +1,2 @@
 # csharp
-A folder containing my work with csharp.
+A folder containing my learning with csharp.
